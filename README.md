@@ -23,3 +23,7 @@ Things you may want to cover:
 
 * ...
 https://www.youtube.com/watch?v=AWLgf_xfd_w&list=PLgYiyoyNPrv_yNp5Pzsx0A3gQ8-tfg66j&index=6
+
+je me suis arrete a la video 6 dans cette video le user peut senregistrer et faire un record en database rails, donc rails peut communiquer avec react
+
+dans la video du debut on peut voir avec la commande js-generate  hudgens le youtoubeur generer un routeur et ses composant sur une app rails
